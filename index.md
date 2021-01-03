@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Bonito's Blog
 
-You can use the [editor on GitHub](https://github.com/justknowit/bonito.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Reamped engery: Save $50 when you join
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have been with them for 3 months. The cheapest in the marketUse the link below to save $50
 
 ### Markdown
 
